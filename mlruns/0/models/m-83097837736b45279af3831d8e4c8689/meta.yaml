@@ -1,0 +1,10 @@
+artifact_location: file:///D:/My_Work/UdeMy/MyCompleteDataScience/MLFLoW%2C%20DVC%20and%20BentoML/MLFLoW/mlruns/0/models/m-83097837736b45279af3831d8e4c8689/artifacts
+creation_timestamp: 1749880147695
+experiment_id: '0'
+last_updated_timestamp: 1749880155813
+model_id: m-83097837736b45279af3831d8e4c8689
+model_type: null
+name: model
+source_run_id: 1383ce8d22064a00bae1c96de56d25aa
+status: 2
+status_message: null
